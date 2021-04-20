@@ -31,8 +31,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução no Frontend Mentor URL: [Add solution URL here](https://github.com/juslenelobeu/stats-preview-card-component-main)
-<!-- - Preview do Site URL: [Add live site URL here](https://your-live-site-url.com) -->
+- Solução no: [Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/responsividade-com-display-grid-P1KNp4WJq)
+- Site: [Preview](https://juslenelobeu.github.io/stats-preview-card-component-main/)
 
 ## Meu processo
 
