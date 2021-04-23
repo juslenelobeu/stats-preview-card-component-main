@@ -12,7 +12,6 @@ Esta é a minha primeira solução criada para o desafio proposto pelo **Fronten
   - [Construção](#construcao)
   - [O que aprendi](#o-que-aprendi)
   - [Desenvolvimento contínuo](#desenvolvimento-continuo)
-  - [Useful resources](#useful-resources)
 - [Autora](#autora)
 
 ## Overview
@@ -25,8 +24,13 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
+#### Desktop
 ![](./design/screenshot-desktop.jpg)
+
+#### Tablet
 ![](./design/screenshot-tablet.jpg)
+
+#### Mobile
 ![](./design/screenshot-mobile.jpg)
 
 ### Links
