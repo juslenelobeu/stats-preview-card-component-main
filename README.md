@@ -9,9 +9,9 @@ Esta é a minha primeira solução criada para o desafio proposto pelo **Fronten
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Meu processo](#meu-processo)
-  - [Construção](#construcao)
+  - [Construção](#construção)
   - [O que aprendi](#o-que-aprendi)
-  - [Desenvolvimento contínuo](#desenvolvimento-continuo)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)
 - [Autora](#autora)
 
 ## Overview
